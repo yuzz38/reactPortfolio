@@ -11,7 +11,7 @@ const Header = (props) => {
         <div className="header__text">
             <p>со страстью учиться и творить</p>
         </div>
-        <a href="#!" className="btn">Скачать резюме</a>
+        <a href="https://hh.ru/resume/1a7ff17eff0b1763b70039ed1f686955697336" className="btn">Скачать резюме</a>
     </div>
 </header>
 

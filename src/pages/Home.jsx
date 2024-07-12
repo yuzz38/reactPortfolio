@@ -9,6 +9,8 @@ const Home = () => {
 
                 <ul className="content-list">
                     <li className="content-list__item">
+                        
+                    <h1 className="title-1">Мои навыки</h1>
                         <h2 className="title-2">Frontend</h2>
                         <p>JavaScript, ReactJS, HTML, CSS, NPM, TailwindCSS, StyledComponents</p>
                     </li>
